@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vvp",
+  "name": "Vanilla Plus Mod",
+  "description": "More blocks that should be!",
+  "version": "[1.0]",
+  "mcversion": "[1.11.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["VasD3"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

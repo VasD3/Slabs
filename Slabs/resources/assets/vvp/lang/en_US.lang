@@ -1,0 +1,16 @@
+//Creative Tab
+itemGroup.tab_vanillaplus=Vanilla Plus Blocks
+
+
+//Blocks
+tile.diorite_stairs.name=Diorite Stairs
+tile.diorite_polished_stairs.name=Polished Diorite Stairs
+tile.diorite_stonebrick.name=Diorite Stonebricks
+tile.diorite_stonebrick_stairs.name=Diorite Stonebrick Stairs
+tile.diorite_brick.name=Diorite Bricks
+tile.diorite_brick_stairs.name=Diorite Brick Stairs
+tile.diorite_grid.name=Gridded Diorite
+tile.diorite_grid_stairs.name=Gridded Diorite Stairs
+
+
+tile.diorite_slab_half.name=Diorite Slab
